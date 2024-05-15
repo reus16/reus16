@@ -1,15 +1,18 @@
 # sobre mim **kauan**
 ##
-:+1: o meu [e-mail]
 - 👋 ola, eu sou @reus16
-- 👀 eu estou interessado em aprender novas linguagens
-- 🌱 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :+1:o meu [e-mail](kauan.antonelli@escola.pr.gov.br)
+- :+1: eu estou interessado em aprender novas linguagens
+- 👀 eu estou recentemente aprendendo a programar linguagem de java acript e escratch ... 
+- 🌱 I'm recently learning to program in java script and scratch ...
+- 💞️ persist until it becomes easy ...
+- 📫  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-reus16/reus16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+  ![](https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white)
+  ![](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+  ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+	![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  
